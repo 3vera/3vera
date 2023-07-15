@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @3vera
-- 👀 I’m interested in C++ projects
-- 🌱 I’m currently learning PHP, SQL
-- 💞️ I’m looking to collaborate on ML projects
+- 👋 Hi, I’m 3vera
+- 👀 I’m interested in C++, 3Dprint, and arduino projects
+- 🌱 I’m currently learning PHP, SQL; 
+- 💞️ I’m looking to collaborate on ML, CAD projects
 - 📫 How to reach me - here on github~
 
 <!---
